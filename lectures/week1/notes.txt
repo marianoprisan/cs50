@@ -1,0 +1,7 @@
+cs50 week1 notes
+
+An array allows us to store data back to back. We can access elements inside an array using the bracket notation(a[0] denotes the first element of the a array).
+The main function is the first function that gets executed when a C programs starts.
+C is a compiled language. The compiler transforms the source code into machine code. CS50 uses the gcc compiler. 
+The course recommends the CS50 IDE(cs50.io) as the working environment for solving its psets.
+
