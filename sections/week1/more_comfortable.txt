@@ -1,5 +1,0 @@
-Cs50 more comfortable section(week1)
-Rob covers bash commands. 
-touch hello{1,2,3} will create the files hello1 hello2 and hello3
-Also, when wanting to provide more files with the same name but different extensions, we can use the trick described above.
-
